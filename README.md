@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JEEVAN-KUMAR
 - 👀 I’m interested in core electronics development, embedded system design, firmware development
-- 🌱 I’m currently learning Modus Tool Box to develop code examples for various BSP's availed from Infineon Technologies
+- 🌱 I’m currently learning Modus Tool Box to validate developed code examples for various BSP's availed from Infineon Technologies
 - 💞️ I’m looking to collaborate on projects being developed for IoT products POC's, embedded system design, firmware application development
 - 📫 How to reach me ...
 
